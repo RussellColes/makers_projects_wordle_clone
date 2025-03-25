@@ -1,4 +1,8 @@
 # Wordle Clone Project - Replicating the New York Times Wordle game #
+
+## Tech Stack ##
+![Kotlin](https://img.shields.io/badge/Kotlin-7B68E4?style=for-the-badge&logo=kotlin&logoColor=white) ![AndroidStudio](https://img.shields.io/badge/Android_Studio-74B233?style=for-the-badge&logo=Android&logoColor=white)
+
 Following 7 working days learning Kotlin and using the Android Studio IDE for the first time, I worked with a colleague to develop a clone of the Wordle game as an app. 
 This app was created in just 2 working days. 
 
